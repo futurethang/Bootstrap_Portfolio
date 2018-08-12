@@ -1,0 +1,38 @@
+body {
+    width: 960px;
+    background-image: url(../images/funky-lines.png);
+    margin: auto;
+}
+
+.thumb-margin {
+    display: block;
+    margin-right: 20px;
+}
+
+header {
+    width: 100%;
+    background-color: aqua;
+}
+
+.spacer {
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+.side-padding {
+    /* padding: 0px 16px; */
+}
+
+.marg-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.marg-bottom {
+    margin-bottom: 80px;
+}
+
+.foot-style {
+    height: 50px;
+    background-color: darkorange;
+}
