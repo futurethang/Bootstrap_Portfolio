@@ -1,7 +1,21 @@
 body {
-    width: 960px;
+    /* width: 960px; */
     background-image: url(../images/funky-lines.png);
     margin: auto;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+h2, h3, h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
 }
 
 .thumb-margin {
@@ -33,6 +47,6 @@ header {
 }
 
 .foot-style {
-    height: 50px;
+    height: 70px;
     background-color: darkorange;
 }
