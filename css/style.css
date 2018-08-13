@@ -61,4 +61,10 @@ header {
 
 .footer-copyright {
     color: #fff;
+    border-top: 6px solid #f123;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
 }
