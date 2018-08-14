@@ -15,8 +15,18 @@ h2, h3, h4, h5 {
     font-weight: 600;
 }
 
+h5:parent {
+    font-size: 2.5vmin;
+    font-size: 2vw;
+    
+}
+
 p {
     font-family: 'Open Sans', sans-serif;
+}
+
+.card-text {
+    font-size: 1.5vmax;
 }
 
 .thumb-margin {
