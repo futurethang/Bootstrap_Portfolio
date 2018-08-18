@@ -1,53 +1,42 @@
 body {
-    /* width: 960px; */
-    background-image: url(../images/funky-lines.png);
-    margin: auto;
+	/* width: 960px; */
+	background-image: url(../images/funky-lines.png);
+	margin: auto;
 }
-
 h1 {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 900;
-    color: darkorange;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	color: darkorange;
 }
-
 h2, h3, h4, h5 {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
 }
-
 h5:parent {
-    font-size: 2.5vmin;
-    font-size: 2vw;
-    
+	font-size: 2.5vmin;
+	font-size: 2vw;
 }
-
 p {
-    font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
-
 .card-text {
-    font-size: 1.5vmax;
+	font-size: 1.5vmax;
 }
-
 .thumb-margin {
-    display: block;
-    margin-right: 20px;
+	display: block;
+	margin-right: 20px;
 }
-
 header {
-    width: 100%;
-    background-color: aqua;
+	width: 100%;
+	background-color: aqua;
 }
-
 .spacer {
-    margin-top:10px;
-    margin-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
-
 .side-padding {
-    /* padding: 0px 16px; */
+	/* padding: 0px 16px; */
 }
-
 /* .marg-center {
     height:20px; 
     width:100px; 
@@ -61,20 +50,17 @@ header {
 } */
 
 .marg-bottom {
-    margin-bottom: 100px;
+	margin-bottom: 100px;
 }
-
 .foot-style {
-    height: 70px;
-    background-color: darkorange;
+	height: 70px;
+	background-color: darkorange;
 }
-
 .footer-copyright {
-    color: #fff;
-    border-top: 6px solid #f123;
+	color: #fff;
+	border-top: 6px solid #f123;
 }
-
 .row {
-    margin-left: 0px;
-    margin-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
